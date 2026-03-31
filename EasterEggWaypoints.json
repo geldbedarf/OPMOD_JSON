@@ -1,6 +1,8 @@
 {
-  "active": false,
-  "waypoints": [{
-     "x":20,"y":79,"z":-48
-  }]
+  "active": true,
+  "servers": ["CB1", "CB2"],
+  "waypoints": [
+    {"x": 20, "y": 79, "z": -48},
+    {"x": 100, "y": 64, "z": 200}
+  ]
 }
