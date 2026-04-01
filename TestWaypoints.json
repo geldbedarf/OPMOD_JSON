@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "servers": ["CB1","CB2","CB3","CB4","CB5","CB6"],
   "waypoints": [
   ]
